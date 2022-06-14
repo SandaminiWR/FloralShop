@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/javax.servlet-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/jstl-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/jstl-api-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/jtds-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/junit-4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/JarFile/JARFiles/servlet-api.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
